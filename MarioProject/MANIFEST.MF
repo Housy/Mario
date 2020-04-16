@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.housy.mario.MyFrame
+Class-Path: lib/commons-codec-1.9.jar lib/commons-io-2.5.jar lib/commons-net-3.3.jar 
+Created-By: housy
